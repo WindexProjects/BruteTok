@@ -53,6 +53,13 @@ TODO:
  
  + Q: *"How is this more accurate?"*
  + A: Using Python 3.10 and Status Codes, the Checker provides more accurate results, rather just assuming any other status code than 200 means the username being checked is available.
+ 
+ + Q: *"Why does it say unavailable after checking a ton of usernames?"*
+ + A: The smaller the username length, the less likely you're to get available usernames, as the chances of getting a username is shortened greatly
+  *Higher Length Usernames = Higher Chances of getting an available Username*
+ 
+ 
+ 
 
 
 
