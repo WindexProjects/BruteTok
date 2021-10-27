@@ -6,6 +6,8 @@ Features:
  + Asynchronous
  + Accurate
  + Sends to Discord Webhook with Results
+ 
+ 
  ![image](https://user-images.githubusercontent.com/60302058/138989919-26630b2e-85d0-45e8-8b28-0283293a9ef8.png)
 
  
