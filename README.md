@@ -1,6 +1,7 @@
 # BruteTok
 Tiktok Username Checker, Uses Asyncio + Httpx Async(hronous) Client to make Faster Requests. 
-
+***MAKE SURE TO DOWNLOAD ALL FILES BEFORE USING!***
+*(Features will not work without All Files downloaded.)*
 Features:
  + Fast
  + Asynchronous
