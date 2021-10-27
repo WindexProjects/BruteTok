@@ -1,4 +1,4 @@
-#Tiktok Username Gen, works with TikBrute.py!
+#Tiktok Username Gen, works with BruteTok.py!
 import random
 from subprocess import call
 call('title Tiktok Username Gen ------Made by Windex \U0001F4A7', shell=True)
