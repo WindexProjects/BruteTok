@@ -42,3 +42,17 @@ TODO:
 ![image](https://user-images.githubusercontent.com/60302058/139158099-32a4454b-67bf-49b3-92ae-4c09fe8d1131.png)
 ![image](https://user-images.githubusercontent.com/60302058/139158138-47d837b6-6de7-484f-aa06-9753e7a05cf4.png)
 
+
+*FAQ*:
+ + Q: *"Why does it say a name is available but I can't use the username?"*
+ + A: If a username was used but the user got banned, tiktok doesn't allow usage of that username, EG: If the name "hsta" was banned, I could not use "hsta".
+ **This is also why when a name is available it's printed saying "Available / Banned", since it could be available or well, banned.**
+ 
+ + Q: *"Why does it say I have multiple Ratelimits?"*
+ + A: Tiktok *(and many other websites)* will implement a ratelimit, to avoid spam, Denial of Service, and so on, so that the site remains functional
+ 
+ + Q: *"How is this more accurate?"*
+ + A: Using Python 3.10 and Status Codes, the Checker provides more accurate results, rather just assuming any other status code than 200 means the username being checked is available.
+
+
+
