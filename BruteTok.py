@@ -20,7 +20,7 @@ if platform.uname().system.lower() != 'windows':
 	print("Operating System Not Supported! Windows Required.")
 	time.sleep(3)
 	quit()
-webhook = 'https://discord.com/api/webhooks/902719168032440400/4SGYfVl7881bOiP-6kW5DsLe4aZh9iyZFZFxnNdw6qY30Iy8OsejvV4JW7cehKKiCJm7'
+webhook = '' #Webhook Goes here, leave blank if you don't want a webhook used.
 init(convert=True)
 g = Fore.GREEN
 r = Fore.RED
