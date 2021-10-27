@@ -1,4 +1,4 @@
-#Sends Tiktok Username Data via webhook
+#Sends Tiktok Username Data via Discord webhook
 import httpx, time
 def webhook(good, bad, r, amt, webhook, t, tt):
 	body = {
