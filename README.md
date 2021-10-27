@@ -10,6 +10,8 @@ Features:
  
  ![image](https://user-images.githubusercontent.com/60302058/138989919-26630b2e-85d0-45e8-8b28-0283293a9ef8.png)
 
+
+(**Take note to the "10000" Usernames checked & The Amount of Ratelimits which Occured**)
  
 Disadvantages:
   - Only Works with python 3.10 >
