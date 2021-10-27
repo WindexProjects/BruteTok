@@ -29,7 +29,7 @@ Disadvantages:
 + 1000 Usernames: About 11 Seconds
 + 100 Usernames: About 4 Seconds
 
-*Times may Vary depending on Internet Connection Strength + Computer Hardware.*
+***Times may Vary depending on Internet Connection Strength + Computer Hardware.***
 
 
 TODO:
