@@ -59,7 +59,7 @@ def gather_(client):
 	return tasks
 async def req():
 	gd, bd, rl,err = 0,0,0,0
-	async with httpx.AsyncClient(timeout=None) as client:
+	async with httpx.AsyncClient() as client:
 		tt = time.time()
 		tasks = gather_(client)
 		res = await asyncio.gather(*tasks)
